@@ -202,7 +202,7 @@ input{
 	bottom: -999px;
 	position: fixed;
 	z-index: 999999;
-	min-height: 500px;
+	min-height: 460px;
 	width: 100%;
 	padding: 5% 0;
 	background: #fff;
